@@ -3,9 +3,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=8c8cce&height=150&section=header&text=yoonji's%20Github&fontsize=120&fontColor=0f4c81) 
    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=a59be6&icon_color=483D8B&text_color=696969&title_color=000000&count_private=true" width=58% />
+  <img src="https://github-readme-stats.vercel.app/api?username=elliaaa&show_icons=true&theme=material-palenight&hide_border=true&bg_color=a59be6&icon_color=483D8B&text_color=696969&title_color=000000&count_private=true" width=58% />
 </a>   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliaa&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=a59be6&icon_color=483D8B&text_color=696969&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=39% /> </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliaaa&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=a59be6&icon_color=483D8B&text_color=696969&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=39% /> </div>
     <br>
     
 ```java
