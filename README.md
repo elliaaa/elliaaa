@@ -16,6 +16,7 @@ public class Introduction {
         boolean isAvailable = true;
 
         System.out.println("안녕하세요! 만들고 싶은 세계가 있는 개발자 " + name + "입니다.");
+
         if (isAvailable) {
             System.out.println(name + "는 언제든 새로운 성장을 위해 도전할 준비가 되어 있습니다!");
         } else {
@@ -24,7 +25,7 @@ public class Introduction {
     }
 }
 ```
-<br>
+<br><br>
 <div align="center">
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  프로젝트</h2>
 
@@ -36,4 +37,24 @@ public class Introduction {
 |4|웹|JAVA, SpringBoot, Thymleaf|중고 거래 경매 서비스<br>([Bidssgket](https://github.com/elliaaa/final-bidssgket))|2024.07.19<br>~2024.08.30|
 
 </div>
+<br><br>
+<div align="center">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>기술 스택</h2>
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+</div>
+
+<br>
+<div align="center"> 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8c8cce&height=150&section=footer)
+    
+</div>
