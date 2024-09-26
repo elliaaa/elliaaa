@@ -31,8 +31,8 @@ public class Introduction {
 
 |No|프로젝트 분류|사용 언어|프로젝트명(Portfolio Repo)|프로젝트 기간|
 |----|----|----|----|----|
-|1|콘솔|JAVA|놀이공원 이용 서비스<br>([5racle](https://github.com/elliaa/JD-5racle))|2024.04.25<br>~2024.04.30|
-|2|콘솔|JAVA|쇼핑몰 창고 관리 프로그햄<br>([Meossg](https://github.com/elliaa/wms-meossg))|2024.05.16<br>~2024.05.21|
+|1|콘솔|JAVA|놀이공원 이용 서비스<br>([5racle](https://github.com/elliaaa/JD-5racle))|2024.04.25<br>~2024.04.30|
+|2|콘솔|JAVA|쇼핑몰 창고 관리 프로그햄<br>([Meossg](https://github.com/elliaaa/wms-meossg))|2024.05.16<br>~2024.05.21|
 |3|웹|JAVA, SpringBoot, Thymleaf|안경 쇼핑몰 창고관리 서비스<br>([Shop-samsam](https://github.com/elliaaa/shop-samsam))|2024.06.25<br>~2024.06.28|
 |4|웹|JAVA, SpringBoot, Thymleaf|중고 거래 경매 서비스<br>([Bidssgket](https://github.com/elliaaa/final-bidssgket))|2024.07.19<br>~2024.08.30|
 
